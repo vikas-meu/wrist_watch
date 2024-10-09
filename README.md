@@ -24,6 +24,3 @@ This project involves creating a wristwatch using an **ESP32 WROOM** module and 
 1. Clone the repository.
 2. Upload the provided code to the ESP32 using the Arduino IDE.
 3. Connect to the specified Wi-Fi and watch the time update in real-time.
-
-## License
-This project is licensed under the MIT License.
